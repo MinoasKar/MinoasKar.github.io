@@ -1,2 +1,0 @@
-MinoasKar.github.io
-curl --output /dev/null --silent --head --fail MinoasKar.github.io && echo "URL exists" || echo "URL does not exist"
